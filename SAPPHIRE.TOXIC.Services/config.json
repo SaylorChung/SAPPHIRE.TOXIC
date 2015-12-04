@@ -1,0 +1,15 @@
+﻿{
+  "Logging": {
+    "IncludeScopes": false,
+    "LogLevel": {
+      "Default": "Verbose",
+      "System": "Information",
+      "Microsoft": "Information"
+    }
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=61.177.81.242;Database=SAPPHIRE;Trusted_Connection=False;User ID=sa;Password=Czmp@2015"
+    }
+  }
+}
